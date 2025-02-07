@@ -4,7 +4,7 @@ Bem-vindo ao repositório que documenta a jornada de aprendizado e prática no b
 
 ## Sobre o Curso 🎓
 
-Neste bootcamp, você aprenderá a transformar grandes volumes de dados em insights valiosos, utilizando técnicas de **inteligência artificial** aplicadas a dados. O curso abrange desde os fundamentos de bancos de dados relacionais até a automação de análises com o **Microsoft Copilot**. Você também trabalhará com **processos de ETL** e aprenderá a criar consultas SQL eficientes para otimizar a análise de dados, desenvolvendo projetos práticos ao longo do caminho.
+Neste bootcamp, tive a oportunidade de aprender a transformar grandes volumes de dados em insights valiosos, explorando técnicas de inteligência artificial aplicadas à análise de dados. O curso abordou desde os fundamentos de bancos de dados relacionais até a automação de análises com o Microsoft Copilot. Além disso, trabalhei com processos de ETL e aprofundei meus conhecimentos em SQL, criando consultas eficientes para otimizar a análise de dados. Ao longo do aprendizado, desenvolvi projetos práticos que me ajudaram a aplicar esses conceitos na prática.
 
 ### Principais Tópicos Abordados:
 
@@ -20,11 +20,11 @@ Neste bootcamp, você aprenderá a transformar grandes volumes de dados em insig
 
 ## Objetivo 🎯
 
-O objetivo deste bootcamp é fornecer as habilidades necessárias para aplicar inteligência artificial em dados, com ênfase na criação de bancos de dados eficientes, consultas SQL otimizadas e análise de dados estratégica. Ao final, você terá um portfólio com 6 projetos práticos que destacam as habilidades mais procuradas no mercado de dados.
+O bootcamp teve como objetivo desenvolver habilidades essenciais para a aplicação de inteligência artificial em dados, com foco na criação de bancos de dados eficientes, otimização de consultas SQL e análise estratégica de dados. Ao longo do curso, construí um portfólio com seis projetos práticos, destacando as competências mais valorizadas no mercado de dados.
 
 ## Como Usar 🛠️
 
-Cada pasta contém os projetos e os códigos necessários, acompanhados de explicações detalhadas sobre as etapas de desenvolvimento. Você pode executar os projetos localmente em seu ambiente de desenvolvimento para aprofundar seus conhecimentos sobre bancos de dados e análise de dados.
+Cada pasta contém os projetos e os códigos necessários, acompanhados de explicações detalhadas sobre as etapas de desenvolvimento. Durante o bootcamp, pude executar esses projetos localmente no meu ambiente de desenvolvimento, o que me permitiu aprofundar meus conhecimentos sobre bancos de dados e análise de dados na prática.
 
 ## Ferramentas Necessárias:
 
